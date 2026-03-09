@@ -1,0 +1,27 @@
+.form-box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     border: 2px,solid,red;
+    border-radius: 10px;
+    background-color: rgb(84, 82, 82);
+
+}
+.form-box input{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border: 2px,solid,red;
+    border-radius: 10px;
+}
+.form-box button{
+    padding: 10px;
+    margin: 20px;
+    border: 2px,solid,red;
+    border-radius: 10px;
+    background-color: rgb(23, 28, 15);
+    color: white;
+    width: 15%;
+}

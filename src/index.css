@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Global resets */
+html, body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #ffffff;
+  color: #0f172a;
+   @apply bg-neutral-50 text-gray-800;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
