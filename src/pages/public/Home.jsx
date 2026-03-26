@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { fadeUp } from "../../styles/animations";
 import HeroSection from "./Home/HeroSection";
 import TrendingSlider from "./Home/TrendingSlider";
-import WhyRoomcare from "./Home/WhyRoomCare";
+// import WhyRoomcare from "./Home/WhyRoomCare";
 import CallToAction from "./Home/CallToAction"
 import FeaturedLocations from "./Home/FeatureLocations";
 import CategoryCard from "./Home/CategoryCard";
